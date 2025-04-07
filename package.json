@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD pipeline demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
